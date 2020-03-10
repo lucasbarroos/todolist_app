@@ -1,4 +1,4 @@
-# Marvel Filter Reactjs
+# Todolist App
 
 A simple React Native app with the Todolist exercise.
 
